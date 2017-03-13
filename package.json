@@ -2,6 +2,9 @@
   "name": "eslint-config-unicoda",
   "version": "0.1.1",
   "description": "Unicoda JavaScript Convention",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
   "repository": {
     "type": "git",
     "url": "https://gitlab.unicoda.com/vvision/javascript-convention.git"
