@@ -1,4 +1,4 @@
-{
+modules.exports = {
   "rules": {
     "indent": [2, 2, {"SwitchCase": 1}],
     "quotes": [2, "single"],
