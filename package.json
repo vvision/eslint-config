@@ -1,5 +1,5 @@
 {
-  "name": "unicoda-javascript-convention",
+  "name": "eslint-config-unicoda",
   "version": "0.1.0",
   "description": "Unicoda JavaScript Convention",
   "repository": {
