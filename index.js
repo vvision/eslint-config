@@ -45,8 +45,6 @@ module.exports = {
     "jquery": true,
     "mongo": true
   },
-  "globals": {
-    "AV": true
-  },
+  "globals": {},
   "extends": "eslint:recommended"
 }
