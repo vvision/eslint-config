@@ -1,0 +1,23 @@
+{
+  "name": "unicoda-javascript-convention",
+  "version": "0.1.0",
+  "description": "Unicoda JavaScript Convention",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.unicoda.com/vvision/javascript-convention.git"
+  },
+  "keywords": [
+    "style guide",
+    "eslint",
+    "unicoda"
+  ],
+  "homepage": "https://gitlab.unicoda.com/vvision/javascript-convention",
+  "author": "Victor Voisin (http://unicoda.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.unicoda.com/vvision/javascript-convention/issues"
+  },
+  "engines": {
+    "node": "5"
+  }
+}
