@@ -7,23 +7,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.unicoda.com/vvision/javascript-convention.git"
+    "url": "https://git.unicoda.com/vvision/javascript-convention.git"
   },
   "keywords": [
     "style guide",
     "eslint",
     "unicoda"
   ],
-  "homepage": "https://gitlab.unicoda.com/vvision/javascript-convention",
+  "homepage": "https://git.unicoda.com/vvision/javascript-convention",
   "author": "Victor Voisin (http://unicoda.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.unicoda.com/vvision/javascript-convention/issues"
+    "url": "https://git.unicoda.com/vvision/javascript-convention/issues"
   },
   "engines": {
     "node": "5"
   },
   "devDependencies": {
-    "eslint": "^4.6.1"
+    "eslint": "^4.6.1",
+    "eslint-config-unicoda": "git+https://git.unicoda.com/vvision/javascript-convention#master"
   }
 }
