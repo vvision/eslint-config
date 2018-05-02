@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-unicoda",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Unicoda JavaScript Convention",
   "peerDependencies": {
     "eslint": ">= 3"

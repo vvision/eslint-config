@@ -8,6 +8,7 @@ module.exports = {
     'unicoda/configurations/common/variables',
     'unicoda/configurations/common/style',
     'unicoda/configurations/common/env',
-    'unicoda/configurations/common/globals'
+    'unicoda/configurations/common/globals',
+    'unicoda/configurations/common/parserOptions'
   ]
 };
