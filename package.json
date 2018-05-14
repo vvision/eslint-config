@@ -1,30 +1,30 @@
 {
-  "name": "eslint-config-unicoda",
-  "version": "0.4.0",
+  "name": "@unicoda/eslint-config",
+  "version": "0.5.0",
   "description": "Unicoda JavaScript Convention",
-  "peerDependencies": {
-    "eslint": ">= 3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://git.unicoda.com/vvision/javascript-convention.git"
-  },
   "keywords": [
     "style guide",
     "eslint",
     "unicoda"
   ],
-  "homepage": "https://git.unicoda.com/vvision/javascript-convention",
-  "author": "Victor Voisin (http://unicoda.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://git.unicoda.com/vvision/javascript-convention/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://git.unicoda.com/unicoda/eslint-config.git"
   },
+  "homepage": "https://git.unicoda.com/unicoda/eslint-config",
+  "author": {
+    "name": "Victor Voisin",
+    "url": "https://www.unicoda.com"
+  },
+  "license": "MIT",
   "engines": {
     "node": "5"
   },
   "devDependencies": {
-    "eslint": "^4.6.1",
-    "eslint-config-unicoda": "git+https://git.unicoda.com/vvision/javascript-convention#master"
+    "@unicoda/eslint-config": "git+https://git.unicoda.com/unicoda/eslint-config#master",
+    "eslint": "^4.6.1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
   }
 }
