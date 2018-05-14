@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  'extends': '@unicoda/configurations/common',
+  'extends': '@unicoda/eslint-config/configurations/common',
   'rules': {
     'global-require': 2,
     'no-console': 0,

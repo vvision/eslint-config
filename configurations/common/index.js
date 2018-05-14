@@ -3,12 +3,12 @@
 module.exports = {
   'extends': [
     'eslint:recommended',
-    '@unicoda/configurations/common/possibleErrors',
-    '@unicoda/configurations/common/bestPractices',
-    '@unicoda/configurations/common/variables',
-    '@unicoda/configurations/common/style',
-    '@unicoda/configurations/common/env',
-    '@unicoda/configurations/common/globals',
-    '@unicoda/configurations/common/parserOptions'
+    '@unicoda/eslint-config/configurations/common/possibleErrors',
+    '@unicoda/eslint-config/configurations/common/bestPractices',
+    '@unicoda/eslint-config/configurations/common/variables',
+    '@unicoda/eslint-config/configurations/common/style',
+    '@unicoda/eslint-config/configurations/common/env',
+    '@unicoda/eslint-config/configurations/common/globals',
+    '@unicoda/eslint-config/configurations/common/parserOptions'
   ]
 };

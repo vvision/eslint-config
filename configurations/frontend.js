@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  'extends': '@unicoda/configurations/common',
+  'extends': '@unicoda/eslint-config/configurations/common',
   'env': {
     'amd': true,
     'browser': true,

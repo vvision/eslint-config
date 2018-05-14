@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  'extends': '@unicoda/configurations/backend'
+  'extends': '@unicoda/eslint-config/configurations/backend'
 };
