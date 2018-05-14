@@ -1,5 +1,5 @@
-eslint-config-unicoda
-=====================
+@unicoda/eslint-config
+======================
 
 JavaScript convention at Unicoda.
 
@@ -9,7 +9,7 @@ Shareable configs are designed to work with the extends feature of .eslintrc fil
 
 ```json
 {
-    "extends": "eslint-config-unicoda"
+    "extends": "@unicoda/eslint-config"
 }
 ```
 
@@ -17,7 +17,7 @@ You can also omit the eslint-config- and it will be automatically assumed by ESL
 
 ```json
 {
-    "extends": "unicoda"
+    "extends": "@unicoda"
 }
 ```
 
@@ -25,9 +25,9 @@ You can override settings from the shareable config by adding them directly into
 
 # Major configurations
 
-* `unicoda` (redirect to backend, see below)
-* `unicoda/configurations/backend`
-* `unicoda/configurations/frontend`
+* `@unicoda` (redirect to backend, see below)
+* `@unicoda/eslint-config/configurations/backend`
+* `@unicoda/eslint-config/configurations/frontend`
 
 # Inspiration
 
