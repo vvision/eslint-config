@@ -1,6 +1,6 @@
 {
   "name": "@unicoda/eslint-config",
-  "version": "0.5.2",
+  "version": "0.6.0",
   "description": "Unicoda JavaScript Convention",
   "keywords": [
     "style guide",
@@ -13,7 +13,7 @@
   },
   "homepage": "https://git.unicoda.com/unicoda/eslint-config",
   "author": {
-    "name": "Victor Voisin",
+    "name": "Unicoda",
     "url": "https://www.unicoda.com"
   },
   "license": "MIT",
