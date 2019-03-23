@@ -9,11 +9,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://git.unicoda.com/unicoda/eslint-config.git"
+    "url": "https://github.com/vvision/eslint-config.git"
   },
-  "homepage": "https://git.unicoda.com/unicoda/eslint-config",
+  "homepage": "https://github.com/vvision/eslint-config",
   "author": {
-    "name": "Unicoda",
+    "name": "Victor Voisin",
     "url": "https://www.unicoda.com"
   },
   "license": "MIT",
@@ -21,10 +21,10 @@
     "node": "5"
   },
   "devDependencies": {
-    "@unicoda/eslint-config": "git+https://git.unicoda.com/unicoda/eslint-config#master",
-    "eslint": "^4.6.1"
+    "@unicoda/eslint-config": "git+https://github.com/vvision/eslint-config#master",
+    "eslint": "^5.15.3"
   },
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 4"
   }
 }
