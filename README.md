@@ -36,3 +36,5 @@ You can override settings from the shareable config by adding them directly into
 * [Arpinum](https://github.com/arpinum/eslint-config-arpinum)
 
 # License
+
+MIT
