@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@unicoda/eslint-config": "git+https://github.com/vvision/eslint-config#master",
-    "eslint": "^5.15.3"
+    "eslint": "^6.2.2"
   },
   "peerDependencies": {
     "eslint": ">= 4"
