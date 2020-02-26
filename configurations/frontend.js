@@ -5,6 +5,7 @@ module.exports = {
   'env': {
     'amd': true,
     'browser': true,
-    'jquery': true
+    'jquery': true,
+    'serviceworker': true
   }
 };

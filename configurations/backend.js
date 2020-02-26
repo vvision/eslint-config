@@ -8,6 +8,7 @@ module.exports = {
   },
   'env': {
     'node': true,
-    'mongo': true
+    'mongo': true,
+    'jest': true
   }
 };
