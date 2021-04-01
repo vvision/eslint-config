@@ -1,6 +1,6 @@
 {
   "name": "@unicoda/eslint-config",
-  "version": "0.9.2",
+  "version": "0.10.0",
   "description": "Unicoda JavaScript Convention",
   "keywords": [
     "style guide",
